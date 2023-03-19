@@ -1,0 +1,1 @@
+destreamer.cmd -u gspcmjune8am@shankariasacad.in -i https://web.microsoftstream.com/embed/video/10f12233-c8d4-4023-871b-4901c559afd7?autoplay=false&showinfo=false -k true -x true --skip
